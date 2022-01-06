@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Grocery Store App 
+
+## Description
+It's a sample grocery store app for testing purposes. It's not real.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
